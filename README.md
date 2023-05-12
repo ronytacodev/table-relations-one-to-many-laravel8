@@ -9,7 +9,7 @@
 
 # TABLE RELATIONS ONE TO MANY LARAVEL
 
-Code to create table One-to-Many Relation with Laravel 8.
+Code to create table Relation One-to-Many with Laravel 8.
 
 # Stack
 
